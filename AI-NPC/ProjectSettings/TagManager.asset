@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sign
+  - Leave
+  - Enter
+  - Swordguy
+  - Supportgirl
+  - Edgelord
+  - Catdog
+  - Goblin
+  - Redknight
+  - Button
+  - PlayerBattlestation
+  - EnemyBattlestation
+  - Hurt
+  - EdgelordHUD
+  - Evilsteve
+  - Deadsoldier
+  - soundmanager
+  - SwordguyHUD
+  - SupportHUD
+  - CatdogHUD
+  - GrassBackground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Grass
+  - Dungeon
+  - Dessert
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sign
+    uniqueID: 1703726409
+    locked: 0
+  - name: Player
+    uniqueID: 642017447
+    locked: 0
