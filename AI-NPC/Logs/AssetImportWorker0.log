@@ -128,3 +128,12 @@ Received Import Request.
 Start importing Assets/LeanTween/Examples/Models/CameraShakeText.fbx using Guid(f4d8d07c107904cdfb54156450f020f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1327a564118cafe879afe589365a8ac4') in 0.362995 seconds
   Import took 0.367090 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 94723.296468 seconds.
+  path: Assets/NPCS.prefab
+  artifactKey: Guid(f3795e01ac41e5c4680b1242a6f310f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NPCS.prefab using Guid(f3795e01ac41e5c4680b1242a6f310f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33e2848d92ba681e1bc8eda7f3bcc7e0') in 0.151832 seconds
+  Import took 0.216782 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
